@@ -1,4 +1,4 @@
-# 
+# Natif AutoGPT plugins. Avec architecture évolutive et tests automatisés — optimisé pour des performances et une efficacité maximales.
 
 
 
